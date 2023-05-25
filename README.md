@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
