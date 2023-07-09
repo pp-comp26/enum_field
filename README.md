@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add Neural Magic Docs integrations page (#7234)
