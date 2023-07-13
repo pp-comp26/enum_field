@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+YOLOv8 INT8 TFLite Inference Example (#7317)
