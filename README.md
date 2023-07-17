@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
