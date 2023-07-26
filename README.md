@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
