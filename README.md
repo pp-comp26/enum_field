@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Capitalize OBB acronym (#7383)
