@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Remove unused variables (#8511)
