@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
