@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+ultralytics 8.1.33 fix HUB model checks (#9153)
