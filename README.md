@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
