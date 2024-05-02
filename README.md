@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
