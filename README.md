@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
