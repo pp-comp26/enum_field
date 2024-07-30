@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Fix OpenVINO missing batch-size bug (#9264)
