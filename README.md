@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
