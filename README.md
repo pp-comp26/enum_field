@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Allow Annotator PIL.Image inputs (#8397)
