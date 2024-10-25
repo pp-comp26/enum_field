@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
